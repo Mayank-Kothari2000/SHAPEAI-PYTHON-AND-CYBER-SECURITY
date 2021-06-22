@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - UDAIPUR  || 22 Jun 2021 | 04:43:38 PM
+-------------------------------------------------------------
+Current temperature is: 29.50 deg C
+Current weather desc  :overcast clouds
+Current Humidity      :69%
+Current wind speed    :3.6kmph
